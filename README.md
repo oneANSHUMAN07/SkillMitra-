@@ -12,7 +12,8 @@ SkillMitra is a learning and career-readiness platform prototype that helps stud
 
 ### Landing page
 
-![SkillMitra landing page](screenshots/multi_muqt76sf-flwu/01.jpg)
+![SkillMitra landing page](https://github.com/oneANSHUMAN07/SkillMitra/raw/main/screenshots/multi_muqt76sf-flwu/01.jpg)
+
 ## What you can explore
 
 - **Student dashboard:** Career-readiness score, skill overview, learning progress, and suggested next steps.
