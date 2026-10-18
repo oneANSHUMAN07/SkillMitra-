@@ -1,0 +1,8 @@
+{
+  "name": "SkillMitra",
+  "description": "AI-Powered Personalized Learning & Career Readiness Platform with Student, Institution, and Industry Workspaces.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
